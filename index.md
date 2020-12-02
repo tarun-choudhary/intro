@@ -51,7 +51,7 @@ extrovert and gentle.follow are the my best friend list:
 <!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg ) -->
 ![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg )
 
-![](https://img.shields.io/badge/Likes-1k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Likes-2.4k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1.2k+-yellow?style=social&logo=reddit)
 
 
@@ -62,24 +62,23 @@ extrovert and gentle.follow are the my best friend list:
 
 #### it's me
 ![alt text](https://tarun-choudhary.github.io/intro/tarun2.jpg )
-![](https://img.shields.io/badge/Likes-1.7k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Likes-4.2k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1.8k+-yellow?style=social&logo=reddit)
 
 
 ![alt text](https://tarun-choudhary.github.io/intro/IMG_20201202_123619_698.jpg)
-![](https://img.shields.io/badge/Likes-1.4k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Likes-3.7k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1.1k+-yellow?style=social&logo=reddit)
 
 
 
 ![alt text](https://tarun-choudhary.github.io/intro/IMG_20201202_123625_156.jpg)
-![](https://img.shields.io/badge/Likes-1.3k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Likes-7.2k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1.8k+-yellow?style=social&logo=reddit)
 
 ![alt text](https://tarun-choudhary.github.io/intro/IMG_20201202_123622_764.jpg )
-![](https://img.shields.io/badge/Likes-1.7k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Likes-2.9k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1k+-yellow?style=social&logo=reddit)
-
 
 
 
