@@ -84,7 +84,7 @@ extrovert and gentle.follow are the my best friend list:
 
 
 
-#### Pics of few but best friends
+<!-- #### Pics of few but best friends
 ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0020.jpg )
 ![](https://img.shields.io/badge/Likes-1k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-2.3k+-yellow?style=social&logo=reddit)
@@ -104,4 +104,4 @@ extrovert and gentle.follow are the my best friend list:
 ##### you can see the raushan's yogashan 😂😂😂😂
 ![alt raushan yoga ](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0025.jpg "raushan yogashan")
 ![](https://img.shields.io/badge/Likes-1.4k+-yellow?style=social&logo=facebook)
-![](https://img.shields.io/badge/Upvote-1k+-yellow?style=social&logo=reddit)
+![](https://img.shields.io/badge/Upvote-1k+-yellow?style=social&logo=reddit) -->
