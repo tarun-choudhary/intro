@@ -1,20 +1,20 @@
-## Introduction of Tarun
-![](https://img.shields.io/badge/Follower-1.5k+-blue?style=social&logo=twitter)
-![](https://img.shields.io/badge/Follower-1.9k+-yellow?style=social&logo=facebook)
+## Followers:- 
+![](https://img.shields.io/badge/Twitter-1.5k+-blue?style=social&logo=twitter)
+![](https://img.shields.io/badge/Facebook-1.9k+-yellow?style=social&logo=facebook)
 
 
 
 
 
 
-### intro:
+### Intro:
 
 Hii there I'm Tarun choudhary  and people known me as **_Tarun_** **_racer_**,
 i have won many prizes on the state level.Now I'm persuing Intermediate of science with CBSE Board.
 .Right now living in Sangam vihar Delhi.
 
 
-### passion:
+### Passion:
 I have lots of passion like; 
 * Wrestling
 * basketball 
@@ -25,7 +25,7 @@ But mostly prefer racing either car racing or bike racing etc
  because I love speed.
 As a students of sciencemy curiosity level is being high and always try to explore new stuff.
 
-<!-- ### My pic with my friends:
+<!-- ### My pic with my friends:-->
 
 <!-- [comment]: ![alt text](https://tarun-choudhary.github.io/intro/IMG_20191211_175429.jpg ) -->
 
@@ -45,11 +45,11 @@ extrovert and gentle.follow are the my best friend list:
 #### pic of prizing ceremony
 
 <!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg ) -->
-<!-- ![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg ) -->
+![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg )
 
 
 
-![alt text](https://tarun-choudhary.github.io/intro/tarun1.jpg )
+<!-- ![alt text](https://tarun-choudhary.github.io/intro/tarun1.jpg ) -->
 
 
 #### it's me
