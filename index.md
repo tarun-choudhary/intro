@@ -21,13 +21,14 @@ i have won many prizes on the state level.Now I'm persuing Intermediate of scien
 ### Passion:
 I have lots of passion like; 
 * Wrestling
-* basketball 
-* football
-* chess,etc
+* Basketball 
+* Football
+* Shooting
+* Chess,etc
 
-But mostly prefer racing either car racing or bike racing etc
+But mostly prefer racing either car racing or bike racing.
  because I love speed.
-As a students of sciencemy curiosity level is being high and always try to explore new stuff.
+As a students of science my curiosity level do always on sky and always try to explore new stuff.
 
 <!-- ### My pic with my friends:-->
 
