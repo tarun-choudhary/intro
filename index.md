@@ -46,12 +46,12 @@ extrovert and gentle.follow are the my best friend list:
 * **Aman**
 * _Rohan_
 
-#### pic of prizing ceremony
+#### Myself 😉
 
 <!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg ) -->
-![alt text](https://tarun-choudhary.github.io/intro/tarun.jpg )
+![alt text](https://tarun-choudhary.github.io/intro/IMG_20210106_090433_790.jpg)
 
-![](https://img.shields.io/badge/Likes-2.4k+-yellow?style=social&logo=facebook)
+![](https://img.shields.io/badge/Likes-6.4k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1.2k+-yellow?style=social&logo=reddit)
 
 
@@ -59,8 +59,6 @@ extrovert and gentle.follow are the my best friend list:
 
 <!-- ![alt text](https://tarun-choudhary.github.io/intro/tarun1.jpg ) -->
 
-
-#### it's me
 ![alt text](https://tarun-choudhary.github.io/intro/tarun2.jpg )
 ![](https://img.shields.io/badge/Likes-4.2k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1.8k+-yellow?style=social&logo=reddit)
