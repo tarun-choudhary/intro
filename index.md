@@ -14,8 +14,8 @@
 ### Intro:
 
 Hii there I'm Tarun choudhary  and people known me as **_Tarun_** **_racer_**,
-i have won many prizes on the state level.Now I'm persuing Intermediate of science with CBSE Board.
-.Right now living in Sangam vihar Delhi.
+i have won many prizes on the state level. Now I'm persuing graduation. 
+.Right now living in Sangam vihar Delhi and i'm state level boxing champion 🏆
 
 
 ### Passion:
@@ -37,7 +37,7 @@ As a students of science my curiosity level do always on sky and always try to e
 
 ### About friends:
 I have so many friends if i will count it ,it can be atleast 1500+,the reason behind it,is simple,i am
-extrovert and gentle.follow are the my best friend list:
+extrovert and gentle.following are the my best friend list:
 * **Premchand**
 * _Krishna kanhaiya_
 * **Shubham**
@@ -50,7 +50,7 @@ extrovert and gentle.follow are the my best friend list:
 #### Myself 😉
 
 <!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG-20190928-WA0014.jpg ) -->
-![alt text](https://tarun-choudhary.github.io/intro/IMG_20210106_090433_790.jpg)
+<!-- ![alt text](https://tarun-choudhary.github.io/intro/IMG_20210106_090433_790.jpg) -->
 
 ![](https://img.shields.io/badge/Likes-6.4k+-yellow?style=social&logo=facebook)
 ![](https://img.shields.io/badge/Upvote-1.2k+-yellow?style=social&logo=reddit)
