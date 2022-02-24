@@ -15,7 +15,7 @@
 
 Hii there I'm Tarun choudhary  and people known me as **_Tarun_** **_racer_**,
 i have won many prizes on the school zonal level. Now I'm persuing graduation. 
-.Right now living in Sangam vihar Delhi and i'm state level boxing champion 🏆
+.Right now living in Sangam vihar Delhi and i'm school zonal level boxing champion 🏆
 
 
 ### Passion:
